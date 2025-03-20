@@ -1,0 +1,14 @@
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.AssemblyInfoInputs.cache
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.AssemblyInfo.cs
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.csproj.CoreCompileInputs.cache
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\bin\Debug\net8.0\Exercise1_Lab6_CSE422.exe
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\bin\Debug\net8.0\Exercise1_Lab6_CSE422.deps.json
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\bin\Debug\net8.0\Exercise1_Lab6_CSE422.runtimeconfig.json
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\bin\Debug\net8.0\Exercise1_Lab6_CSE422.dll
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\bin\Debug\net8.0\Exercise1_Lab6_CSE422.pdb
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.dll
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\refint\Exercise1_Lab6_CSE422.dll
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.pdb
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\Exercise1_Lab6_CSE422.genruntimeconfig.cache
+C:\Users\vygir\source\repos\Exercise1_Lab6_CSE422\Exercise1_Lab6_CSE422\obj\Debug\net8.0\ref\Exercise1_Lab6_CSE422.dll
